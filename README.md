@@ -28,7 +28,7 @@
 
 ## ⚒️Stack:
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) <a href='https://kotlinlang.org/lp/mobile/' target="_blank"><img alt='Kotlin' src='https://img.shields.io/badge/KMM-100000?style=for-the-badge&logo=Kotlin&logoColor=482AB6&labelColor=A87ECA&color=A87ECA'/></a> ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-> also: Clean architecture, MVVM, Retrofit, Room, SQLite, Navigation, Dependency Injection(Hilt),
+> also: Clean architecture, MVVM, Third-party libraries(Glide, Retrofit, GSON), Room, SQLite, Navigation, Dependency Injection(Hilt), Services, Broadcast reciever, Complex ui design, Publish to Play Market
 
 ## 💹 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mamadaliev-dev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
