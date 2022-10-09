@@ -7,8 +7,6 @@
 
 - 💬 Ask me about Android development, Kotlin development everything about programming
 
-- 📫 How to reach me [Telegram](https://t.me/Mamadaliev_One), [Linkedin](https://www.linkedin.com/in/azamat-mamadaliev-2bb463245/)
-
 - 😊 I know the following: Android App development (from 1 years), Kotlin, Java, Kotlin Coroutines
 
 ## 🤝Connect with me  
